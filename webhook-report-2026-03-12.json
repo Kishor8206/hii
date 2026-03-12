@@ -1,0 +1,157 @@
+{
+  "generatedAt": "2026-03-12T11:01:41.943Z",
+  "user": {
+    "email": "kishorkesika@gmail.com",
+    "userId": "69b274f2d7952454681748f6"
+  },
+  "summary": {
+    "totalRequests": 2,
+    "totalWebhooks": 3,
+    "avgRequestsPerWebhook": 1,
+    "last24Hours": 2
+  },
+  "requestsByMethod": {
+    "GET": 0,
+    "POST": 2,
+    "PUT": 0,
+    "DELETE": 0
+  },
+  "securityAnalysis": {
+    "highRisk": 0,
+    "mediumRisk": 0,
+    "lowRisk": 0,
+    "unknown": 2,
+    "riskPercentage": 0
+  },
+  "serviceDistribution": {
+    "Unknown": 2
+  },
+  "hourlyActivity": [
+    {
+      "hour": "0:00",
+      "requests": 0
+    },
+    {
+      "hour": "1:00",
+      "requests": 0
+    },
+    {
+      "hour": "2:00",
+      "requests": 0
+    },
+    {
+      "hour": "3:00",
+      "requests": 0
+    },
+    {
+      "hour": "4:00",
+      "requests": 0
+    },
+    {
+      "hour": "5:00",
+      "requests": 0
+    },
+    {
+      "hour": "6:00",
+      "requests": 0
+    },
+    {
+      "hour": "7:00",
+      "requests": 0
+    },
+    {
+      "hour": "8:00",
+      "requests": 0
+    },
+    {
+      "hour": "9:00",
+      "requests": 0
+    },
+    {
+      "hour": "10:00",
+      "requests": 0
+    },
+    {
+      "hour": "11:00",
+      "requests": 0
+    },
+    {
+      "hour": "12:00",
+      "requests": 0
+    },
+    {
+      "hour": "13:00",
+      "requests": 0
+    },
+    {
+      "hour": "14:00",
+      "requests": 2
+    },
+    {
+      "hour": "15:00",
+      "requests": 0
+    },
+    {
+      "hour": "16:00",
+      "requests": 0
+    },
+    {
+      "hour": "17:00",
+      "requests": 0
+    },
+    {
+      "hour": "18:00",
+      "requests": 0
+    },
+    {
+      "hour": "19:00",
+      "requests": 0
+    },
+    {
+      "hour": "20:00",
+      "requests": 0
+    },
+    {
+      "hour": "21:00",
+      "requests": 0
+    },
+    {
+      "hour": "22:00",
+      "requests": 0
+    },
+    {
+      "hour": "23:00",
+      "requests": 0
+    }
+  ],
+  "detailedRequests": [
+    {
+      "id": "69b27c80c0897b2857dace84",
+      "method": "POST",
+      "timestamp": "2026-03-12T08:42:40.679Z",
+      "ip": "",
+      "contentType": "",
+      "service": "Unknown",
+      "eventType": "Unknown",
+      "riskLevel": "Unknown",
+      "confidence": "Unknown",
+      "securityScore": 55,
+      "concerns": [],
+      "recommendations": []
+    },
+    {
+      "id": "69b27b4ed09fe237c369367f",
+      "method": "POST",
+      "timestamp": "2026-03-12T08:37:34.248Z",
+      "ip": "",
+      "contentType": "",
+      "service": "Unknown",
+      "eventType": "Unknown",
+      "riskLevel": "Unknown",
+      "confidence": "Unknown",
+      "securityScore": 55,
+      "concerns": [],
+      "recommendations": []
+    }
+  ]
+}
